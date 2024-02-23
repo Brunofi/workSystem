@@ -146,14 +146,14 @@ public class TelaSaidaPeca extends javax.swing.JInternalFrame {
         };
         tblSaidaPeca.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null, null, null, null, null, null, null},
-                {null, null, null, null, null, null, null, null},
-                {null, null, null, null, null, null, null, null},
-                {null, null, null, null, null, null, null, null},
-                {null, null, null, null, null, null, null, null}
+                {null, null, null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null, null, null},
+                {null, null, null, null, null, null, null, null, null}
             },
             new String [] {
-                "Part Number", "Descrição", "Quantidade", "Locação", "Sub-Locação", "ID estoque", "ID peça", "ID locação"
+                "Part Number", "Descrição", "Estado", "Quantidade", "Locação", "Sub-Locação", "ID estoque", "ID peça", "ID locação"
             }
         ));
         tblSaidaPeca.setFocusable(false);

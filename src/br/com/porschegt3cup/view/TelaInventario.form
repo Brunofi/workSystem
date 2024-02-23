@@ -146,10 +146,11 @@
         <Component class="javax.swing.JTable" name="tblInventario">
           <Properties>
             <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
-              <Table columnCount="7" rowCount="25">
+              <Table columnCount="8" rowCount="25">
                 <Column editable="true" title="ID" type="java.lang.Object"/>
                 <Column editable="true" title="PART NUMBER" type="java.lang.Object"/>
                 <Column editable="true" title="DESCRI&#xc7;&#xc3;O" type="java.lang.Object"/>
+                <Column editable="true" title="ESTADO" type="java.lang.Object"/>
                 <Column editable="true" title="LOCA&#xc7;&#xc3;O" type="java.lang.Object"/>
                 <Column editable="true" title="SUB LOCA&#xc7;&#xc3;O" type="java.lang.Object"/>
                 <Column editable="true" title="QTD ANTIGA" type="java.lang.Object"/>
